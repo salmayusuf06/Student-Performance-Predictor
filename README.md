@@ -1,6 +1,6 @@
 # 🎓 Student Final Grade Predictor (G3)
 
-A Machine Learning web application built with **Python**, **scikit-learn**, and **Streamlit** to predict a student's final exam grade ($G3$) based on key socio-demographic and academic features.
+A Machine Learning web application built with **Python**, **scikit-learn**, and **Streamlit** to predict a student's final exam grade ($G3$) based on key academic features.
 
 ---
 
